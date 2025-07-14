@@ -12,5 +12,11 @@ build_search_index = false
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
+theme = "hook"
+
 [extra]
 # Put all your custom variables here
+
+links = [
+    { title = "github", href = "https://github.com/archqn" },
+]
