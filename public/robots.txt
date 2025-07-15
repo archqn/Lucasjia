@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://archqn.github.io/Lucasjia/sitemap.xml
+Sitemap: https://archqn.github.io/lucasjia/sitemap.xml
