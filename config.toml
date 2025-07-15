@@ -7,16 +7,17 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+theme = "Hook"
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 
-theme = "hook"
-
 [extra]
 # Put all your custom variables here
 
 links = [
-    { title = "github", href = "https://github.com/archqn" },
+    { title = "Github", href = "https://github.com/archqn" },
+    { title = "LinkedIn", href = "https://www.linkedin.com/in/lucas-jia/"}
 ]

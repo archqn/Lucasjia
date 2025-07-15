@@ -4,10 +4,14 @@
         <loc>https://archqn.github.io/Lucasjia/</loc>
     </url>
     <url>
-        <loc>https://archqn.github.io/Lucasjia/index/</loc>
+        <loc>https://archqn.github.io/Lucasjia/blog/</loc>
     </url>
     <url>
-        <loc>https://archqn.github.io/Lucasjia/index/first/</loc>
-        <lastmod>2019-11-27</lastmod>
+        <loc>https://archqn.github.io/Lucasjia/blog/antilibrary/</loc>
+        <lastmod>2025-07-14</lastmod>
+    </url>
+    <url>
+        <loc>https://archqn.github.io/Lucasjia/blog/failure-resume/</loc>
+        <lastmod>2025-07-14</lastmod>
     </url>
 </urlset>
