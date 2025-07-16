@@ -20,13 +20,13 @@ Copied from [Tanay Biradar](https://tanaybiradar.com/blog/antilibrary/). Some se
 **Growth**
 - *Atomic Habits* - James Clear
 - *Deep Work* - Cal Newport
-- *The Richest Man in Babylon*
+- *The Richest Man in Babylon* - George Clason
 - *Make it Clear* - Patrick Henry Winston
 
 
 **Fiction**
 - *Musashi* - Eiji Yoshikawa
 - *Wheel of Time* series - Robert Jordan
-- *Game of Thrones* series
+- *Game of Thrones* series - George R.R. Martin
 - *Shogun* - James Clavell
 - *The Martian* - Andy Weir
